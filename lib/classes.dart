@@ -1,4 +1,4 @@
-part of atoms;
+part of flutter_atoms;
 
 //
 // Atom Classes

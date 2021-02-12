@@ -1,8 +1,10 @@
 name: flutter_atoms
-description: A new Flutter package project.
-version: 0.0.1
-author: null
-# homepage: null
+description: A simple state management solution inspired by Unity Atoms and built on Riverpod and Flutter Hooks.
+
+version: 0.0.2
+homepage: https://github.com/danielmahon/flutter_atoms
+repository: https://github.com/danielmahon/flutter_atoms
+issue_tracker: https://github.com/danielmahon/flutter_atoms/issues
 
 environment:
   sdk: '>=2.7.0 <3.0.0'
